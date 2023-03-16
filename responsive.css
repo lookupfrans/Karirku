@@ -16,7 +16,7 @@
   }
   
   /* handphone */
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 750px) {
     .card {
       width: 100%;
     }
@@ -49,8 +49,5 @@
 
     footer list {
         float: right;
-    }
-    li {
-        padding-bottom: 50px;
     }
   }
