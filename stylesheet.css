@@ -101,8 +101,13 @@
   .subinside-text {
     text-align: center;
     padding-top: 5px;
+    opacity: 0.8;
   }
-  
+ 
+  p {
+    opacity: 0.8;
+  }
+
   main form {
     margin-top: 90px;
     padding-left: 90px;
