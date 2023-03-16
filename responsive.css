@@ -37,7 +37,8 @@
     }
       
     .box-search {
-        display: none;
+        width: 75px;
+        max-width: 25%;
     }
       
     main form {
