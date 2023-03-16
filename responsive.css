@@ -46,4 +46,11 @@
     main input {
       padding-left: 15px;
     }
+
+    footer list {
+        float: right;
+    }
+    li {
+        padding-bottom: 50px;
+    }
   }
