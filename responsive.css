@@ -48,20 +48,3 @@
     }
   }
   
-  @media screen and (max-width: 500px) {
-    footer{
-      width: 100%;
-      bottom: 0;
-      height: 180px;
-    }
-  
-    .info {
-      margin-right: 0;
-      font-size: 12px;
-      padding-top: 5px;
-    }
-  
-    .footer-left p{
-      padding-top: 10px;
-    }
-  }
