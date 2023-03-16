@@ -35,7 +35,24 @@
     .navbar ul {
       display: block;
     }
-      
+
+    ul li a {
+        display: none;
+    }
+
+    ul li a::before {
+        display: none;
+    }
+
+    ul li a::after {
+        display: none;
+    }
+
+    ul li a:hover:after,
+    ul li a:hover::before {
+        display: none;
+    }
+
     main form {
       display: block;
       margin: 0 auto;
@@ -46,5 +63,12 @@
   
     main input {
       padding-left: 15px;
+    }
+
+    footer list {
+        float: right;
+    }
+    li {
+        padding-bottom: 50px;
     }
   }
