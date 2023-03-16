@@ -36,21 +36,8 @@
       display: block;
     }
       
-    ul li a {
-      display: none;
-    }
-
-    ul li a::before {
-      display: none;
-    }
-
-    ul li a::after {
-      display: none;
-    }
-
-    ul li a:hover:after,
-    ul li a:hover::before {
-      display: none;
+    .box-search {
+        display: none;
     }
       
     main form {
