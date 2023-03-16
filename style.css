@@ -101,13 +101,8 @@
   .subinside-text {
     text-align: center;
     padding-top: 5px;
-    opacity: 0.8;
   }
- 
-  p {
-    opacity: 0.8;
-  }
-
+  
   main form {
     margin-top: 90px;
     padding-left: 90px;
@@ -125,11 +120,6 @@
     height: 35px;
     margin-bottom: 25px;
     /* padding-left: 30px; */
-  }
-  
-    h1, h2 {
-    color: white;
-    opacity: 0.8;
   }
   
   .find-job {
@@ -366,3 +356,4 @@
     justify-content: space-between;
   }
   /* End Maiduri */
+  
