@@ -122,6 +122,11 @@
     /* padding-left: 30px; */
   }
   
+    h1, h2 {
+    color: white;
+    opacity: 0.8;
+  }
+  
   .find-job {
     size: 60px;
     /* padding-left: 10px; */
