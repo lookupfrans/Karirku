@@ -35,7 +35,11 @@
     .navbar ul {
       display: block;
     }
-
+    
+    ul {
+        width: 25%;
+    }
+      
     ul li a {
         display: none;
     }
