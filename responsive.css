@@ -36,9 +36,22 @@
       display: none;
     }
       
-     ul li a {
+    ul li a {
       display: none;
-     }
+    }
+
+    ul li a::before {
+      display: none;
+    }
+
+    ul li a::after {
+      display: none;
+    }
+
+    ul li a:hover:after,
+    ul li a:hover::before {
+      display: none;
+    }
       
     main form {
       display: block;
