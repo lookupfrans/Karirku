@@ -39,6 +39,7 @@
     .box-search {
         width: 75px;
         max-width: 25%;
+        display: block;
     }
       
     main form {
